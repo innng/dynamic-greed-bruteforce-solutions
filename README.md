@@ -1,1 +1,1 @@
-# dynamic_greed_bruteforce_solutions
+# dynamic-greed-bruteforce-solutions
